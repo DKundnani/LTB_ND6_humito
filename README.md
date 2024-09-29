@@ -107,7 +107,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 Deepali L. Kundnani - [deepali.kundnani@gmail.com](mailto::deepali.kundnani@gmail.com)    [![LinkedIn][linkedin-shield]][linkedin-url] 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 Kirti Chhatlani - kirtichhatlani29@gmail.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
