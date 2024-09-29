@@ -1,5 +1,7 @@
 <h1 align="center">Pipeline of DNAseq and Variant calling for mitochondrial samples using multiple GATK tools </h1>
+
 Wrapper bash script to be used with input fastq files, and customized script to ontain percent reads for the mutations in human mitochondria.
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
