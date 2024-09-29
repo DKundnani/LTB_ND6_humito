@@ -133,7 +133,7 @@ bioRxiv 2023.10.02.560505; doi:[https://doi.org/10.1101/2023.10.02.560505]( http
 [forks-url]: https://github.com/DKundnani/LTB_ND6_humito/forks
 [stars-shield]: https://img.shields.io/github/stars/DKundnani/LTB_ND6_humito?style=for-the-badge
 [stars-url]: https://github.com/DKundnani/LTB_ND6_humito/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DKundnaniLTB_ND6_humito?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/DKundnani/LTB_ND6_humito?style=for-the-badge
 [issues-url]: https://github.com/DKundnani/LTB_ND6_humito/issues
 [license-shield]: https://img.shields.io/github/license/DKundnani/LTB_ND6_humito?style=for-the-badge
 [license-url]: https://github.com/DKundnani/LTB_ND6_humito/blob/master/LICENSE.txt
