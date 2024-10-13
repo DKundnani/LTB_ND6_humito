@@ -1,4 +1,4 @@
-<h1 align="center">Pipeline of DNAseq and Variant calling for mitochondrial samples using multiple GATK tools </h1>
+<h1 align="center"> Variant calling and consensus sequence generation for mitochondrial samples (liver tissue biopsy)  </h1>
 
 Wrapper bash script to be used with input fastq files, and customized script to ontain percent reads for the mutations in human mitochondria.
 
